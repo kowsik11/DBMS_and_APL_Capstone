@@ -49,11 +49,8 @@ Front End :
   * With the Points earned in each Level the Player will be promoted to next level .
 
 ### Team Members:
-1. `Abhishek Sharma` [ch.en.u4cys21001@ch.students.amrita.edu]
-2. `Aditya Vatsa `[ch.en.u4cys21003@ch.students.amrita.edu]
-3. `Charishma L` [ch.en.u4cys21010@ch.students.amrita.edu]
-4. `Chinni Krishna Kowsik. P` [ch.en.u4cys21011@ch.students.amrita.edu]
-5. `Sahasra Reddy. M` [ch.en.u4cys21037@ch.students.amrita.edu]
+1. `Aditya Lalith `[ch.en.u4cys21055@ch.students.amrita.edu]
+2. `Chinni Krishna Kowsik. P` [ch.en.u4cys21011@ch.students.amrita.edu]
 
 ----------------- THANK YOU --------------------------------------------------------------------------------------------
 
